@@ -1,2 +1,8 @@
 /proyecto-poo-git/nbproject/private/
 /gestionproyectos/nbproject/private/
+*.class
+build/
+target/
+nbproject/
+.DS_Store
+*.iml
