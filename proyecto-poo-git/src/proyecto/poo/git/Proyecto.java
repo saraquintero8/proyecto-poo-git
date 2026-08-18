@@ -12,3 +12,9 @@ package gestionproyectos;
 public class Proyecto {
 
 }
+
+public class  Proyecto.java {
+
+    public calcularAvance() {
+        
+    }
