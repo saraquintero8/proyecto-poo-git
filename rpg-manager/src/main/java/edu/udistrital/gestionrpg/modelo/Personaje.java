@@ -3,7 +3,7 @@ package edu.udistrital.gestionrpg.modelo;
 public class Personaje {
     private String nombre;
     private String clase;
-    private int nivel;
+    int nivel;
     private int vida;
 
     public Personaje(String nombre, String clase, int nivel, int vida) {
